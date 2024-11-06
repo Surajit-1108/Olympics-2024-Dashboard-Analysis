@@ -4,6 +4,8 @@ Power BI Dashboard
 Objective:
 The purpose of this Power BI dashboard is to provide a detailed analysis of the Paris Olympics 2024, focusing on data around participating countries, athletes, and medal distribution. This dashboard offers insights into medal trends, country performance, and highlights notable athletes, helping viewers understand which countries and sports are likely to excel in this edition of the Olympics.
 
+Data source: [https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games/data]
+
 Steps:
 - Compiled datasets on participating countries, athletes, and sports.
 - Ensured data consistency by standardizing country codes, athlete names, and event categories.
